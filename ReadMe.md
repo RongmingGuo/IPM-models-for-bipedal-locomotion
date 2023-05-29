@@ -4,14 +4,8 @@ This repo explores various Inverted Pendulum Models (IPM) typically used as the 
 1. 2D Linear Inverted Pendulum Model (2D LIPM)
 2. 3D Linear Inverted Pendulum Model (3D LIPM)
 3. 3D Prismatic Inverted Pendulum Model (3D PIPM)
-The Equations of Motion (EOMs) are primarily based on the Principle of Angular Momentum Conservation. MATLAB Symbolic Math Toolbox are used to help the derivation of EOMs.
 
-#### 
-![](https://github.gatech.edu/rguo61/Coinstrained-Hybrid-Dynamics-of-LIPM/blob/main/images/SimulationScreenShot.png)
-![](https://github.gatech.edu/rguo61/Coinstrained-Hybrid-Dynamics-of-LIPM/blob/main/images/VTAnalysis.png)
-![](https://github.gatech.edu/rguo61/Coinstrained-Hybrid-Dynamics-of-LIPM/blob/main/images/SimulationScreenShot3D.PNG)
-![](https://github.gatech.edu/rguo61/Coinstrained-Hybrid-Dynamics-of-LIPM/blob/main/images/XYZPlot3D.PNG)
-![](https://github.gatech.edu/rguo61/Coinstrained-Hybrid-Dynamics-of-LIPM/blob/main/images/VTAnalysis3D.PNG)
+The Equations of Motion (EOMs) are primarily based on the Principle of Angular Momentum Conservation. MATLAB Symbolic Math Toolbox are used to help the derivation of EOMs.
 
 ## Execution
 Run 2DLIPM/Workspace.m or 3DLIPM/Workspace.m to run respective simulations. Tunnable Parameters Include
