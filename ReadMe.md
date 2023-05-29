@@ -18,4 +18,5 @@ Running section-by-section is recommended since the script is divided into Solvi
 
 ## References and Acknoledgement
 [1] https://www.researchgate.net/publication/225543511_Physics-based_modeling_and_simulation_of_human_walking_A_review_of_optimization-based_and_other_approaches
-[2] https://www.researchgate.net/publication/303811034_Robust_Phase-Space_Planning_for_Agile_Legged_Locomotion_over_Various_Terrain_Topologies
+[2] https://www.researchgate.net/publication/
+303811034_Robust_Phase-Space_Planning_for_Agile_Legged_Locomotion_over_Various_Terrain_Topologies
